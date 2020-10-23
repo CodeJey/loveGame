@@ -1,0 +1,36 @@
+body{
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgb(92, 100, 44), rgb(228, 114, 20), rgb(6, 71, 99));  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, rgb(93, 44, 100), rgb(55, 211, 102), rgb(54, 6, 6)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#Button{
+    margin-top: 20px;
+    background: #1f4037;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #99f2c8, #2f695a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align:center;
+    border-radius: 10px 10px 10px 10px;
+    padding: 30px;
+    color: rgb(187, 27, 27);
+    font-size: 150%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.lefted{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    background: rgba(223, 67, 93, 0.726);  /* fallback for old browsers */
+    text-align:center;
+    border-radius: 10px 10px 10px 10px;
+    padding: 30px;
+    width: 60%;
+    color: rgb(20, 2, 2);
+    font-size: 140%;
+}
+
